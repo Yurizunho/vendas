@@ -42,7 +42,7 @@
     <div class="container">
         <h1>Bem-vindo ao LionHelp42</h1>
         <p>Entre em contato pelo WhatsApp clicando no botão abaixo:</p>
-        <a href="https://wa.me/seuNumero" class="botao-whatsapp">Fale Conosco</a>
+        <a href="https://wa.me/5581995283629" class="botao-whatsapp">Fale Conosco</a>
     </div>
 </body>
 </html>
